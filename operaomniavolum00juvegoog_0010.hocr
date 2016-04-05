@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./operaomniavolum00juvegoog_0010.png"; bbox 0 0 3050 4913; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 228 150 799 256">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 228 150 799 256">
+     <span class='ocr_line' id='line_1_1' title="bbox 228 150 799 256; baseline -0.002 -24"><span class='ocrx_word' id='word_1_1' title='bbox 228 171 354 256; x_wconf 40' lang='lat' dir='ltr'>ys„</span> <span class='ocrx_word' id='word_1_2' title='bbox 422 150 799 236; x_wconf 43' lang='grc' dir='ltr'>αυλις</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 847 715 1549 919">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 847 715 1549 919">
+     <span class='ocr_line' id='line_1_2' title="bbox 847 715 1548 779; baseline -0.009 1"><span class='ocrx_word' id='word_1_3' title='bbox 847 724 1080 779; x_wconf 63' lang='lat' dir='ltr'>mm</span> <span class='ocrx_word' id='word_1_4' title='bbox 1095 724 1314 774; x_wconf 70' lang='grc' dir='ltr'>οοιιειε</span> <span class='ocrx_word' id='word_1_5' title='bbox 1333 715 1548 774; x_wconf 67' lang='lat' dir='ltr'>unm</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 925 786 1549 847; baseline -0.018 -3"><span class='ocrx_word' id='word_1_6' title='bbox 925 789 1174 844; x_wconf 62' lang='lat' dir='ltr'>mutue</span> <span class='ocrx_word' id='word_1_7' title='bbox 1194 786 1471 836; x_wconf 61' lang='lat' dir='ltr'>flammo?</span> <span class='ocrx_word' id='word_1_8' title='bbox 1546 838 1549 847; x_wconf 51' lang='grc'>,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 897 850 1548 919; baseline 0 -12"><span class='ocrx_word' id='word_1_9' title='bbox 897 852 1161 919; x_wconf 59' lang='lat' dir='ltr'>mutu.</span> <span class='ocrx_word' id='word_1_10' title='bbox 1171 850 1501 907; x_wconf 65' lang='lat' dir='ltr'>amomon</span> <span class='ocrx_word' id='word_1_11' title='bbox 1539 858 1548 906; x_wconf 83' lang='lat'>1</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1027 920 1395 976">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1027 920 1395 976">
+     <span class='ocr_line' id='line_1_5' title="bbox 1027 920 1395 976; baseline 0.005 -7"><span class='ocrx_word' id='word_1_12' title='bbox 1027 920 1221 976; x_wconf 62' lang='grc' dir='ltr'><strong>ΙΑΥἎ.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 1242 921 1355 968; x_wconf 77' lang='lat'>19⁴2</span> <span class='ocrx_word' id='word_1_14' title='bbox 1386 960 1395 971; x_wconf 90' lang='lat'><strong><em>.</em></strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
